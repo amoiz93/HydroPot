@@ -1,4 +1,4 @@
-# hydropower_planner
+# HydroPot
 This is the repository for the systematic hydropower planning tool in GitHub.
 Relevant publication can be found at https://doi.org/10.1016/j.apenergy.2018.04.070
 This publication explains the necessary inputs required to run the model.
